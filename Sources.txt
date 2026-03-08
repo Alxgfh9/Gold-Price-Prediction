@@ -1,0 +1,3 @@
+GPR: https://www.policyuncertainty.com/gpr.html
+Real Interest Rates, Dollar Index, and Inflation Expectations: https://fred.stlouisfed.org
+GOLD PRICE: https://finance.yahoo.com
